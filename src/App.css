@@ -1,0 +1,49 @@
+
+nav {
+  display: flex;
+  justify-content: space-around;
+  background-color: blue;
+  font-family: cursive;
+}
+
+.link {
+  color: white;
+  text-decoration: none;
+  font-size: 2rem;
+}
+
+.title {
+  padding-left: 4rem;
+}
+
+/* .edit {
+  text-decoration: none;
+} */
+
+.input-conatiner
+{
+  width: 80%;
+  margin: 5rem auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+
+}
+
+.input {
+  width: 40%;
+}
+
+.btn-container {
+  float: right;
+}
+
+.cancel-btn {
+  margin-right: 2rem;
+  background-color: rgb(236, 98, 98);
+}
+
+.submit-btn {
+  margin-right: 10rem;
+  background-color: rgb(74, 234, 74);
+}

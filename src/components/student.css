@@ -1,0 +1,16 @@
+.heading {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.conatainer {
+    width: 80%;
+    margin: 3em auto;
+}
+
+button {
+    padding: 0.5rem 2rem;
+    height: fit-content;
+    border-radius: 20px;
+}
